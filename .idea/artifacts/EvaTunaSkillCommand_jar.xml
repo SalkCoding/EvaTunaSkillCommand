@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EvaTunaSkillCommand:jar">
+    <output-path>$PROJECT_DIR$/../../../../Minecraft/Plugin Test Bukkit/plugins</output-path>
+    <root id="archive" name="EvaTunaSkillCommand.jar">
+      <element id="module-output" name="EvaTunaSkillCommand" />
+    </root>
+  </artifact>
+</component>

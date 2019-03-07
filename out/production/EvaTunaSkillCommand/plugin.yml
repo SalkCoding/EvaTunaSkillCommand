@@ -1,0 +1,7 @@
+name: EvaTunaSkillCommand
+main: net.evatunaskillcommand.salkcoding.main.Main
+version: 1.0.1
+commands:
+  Skill:
+    description: Skill command
+    usage: /skill [name]
